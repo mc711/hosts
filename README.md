@@ -6,7 +6,9 @@ https://raw.githubusercontent.com/mc711/hosts/main/hosts
 things blocked
 
 Adobe
+
 3utools log server
+
 
 Android emulators
 
