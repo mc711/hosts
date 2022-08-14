@@ -5,6 +5,8 @@ https://raw.githubusercontent.com/mc711/hosts/main/hosts
 
 things blocked
 
+Windows Spyware - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+
 Adobe - https://github.com/eaaasun/CCStopper/blob/development/scripts/InternetBlock.bat
 
 3utools log server
