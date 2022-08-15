@@ -22,3 +22,10 @@ LDPlayer
 
 
 recommended hosts - https://github.com/StevenBlack/hosts
+
+
+optional mobile hosts (outdated)
+minimalhosts - minimalistic hosts - https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
+minimalhostsCB - minimalists hosts for content blockers - https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHostsCB/etc/MinimalHostsBlocker/minimalhosts
+MegaUHB - mega untrusted hosts blocker - https://repo.thireus.com/
+
